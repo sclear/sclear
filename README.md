@@ -2,7 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=你好，我是+sclear;是一名前端工程师;同时也在做+Java+Spring;欢迎来到我的GitHub！\&center=true\&width=500\&height=50)
 
----
 
 ## 👩‍💻 关于我
 
@@ -10,7 +9,6 @@
 * ⚙️ 同时也在做 Java & Spring 相关开发
 * 🌱 持续学习新技术
 
----
 
 ## 🛠 技术栈
 
@@ -31,7 +29,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql\&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis\&logoColor=white)
 
----
 
 ### 🧰 工具 & 工程化
 
@@ -42,13 +39,11 @@
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm\&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn\&logoColor=white)
 
----
 
 ## 📫 联系我
 
 * 📧 邮箱：[1392227049@qq.com](mailto:1392227049@qq.com)
 
----
 
 ## ✨
 
